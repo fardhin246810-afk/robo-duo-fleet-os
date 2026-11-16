@@ -47,7 +47,7 @@ HTML, CSS and vanilla JavaScript with the Canvas API. No external libraries.
 
 ## Documentation
 
-The full presentation is in the repository: `RoboDuo_Fleet_OS_Presentation.pptx`
+The full presentation is in the repository: `(https://github.com/fardhin246810-afk/robo-duo-fleet-os/blob/main/ROBODUO_FINALPPT.pptx)`
 
 ## Known Limitations and Next Steps
 
